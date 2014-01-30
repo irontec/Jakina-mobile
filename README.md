@@ -18,13 +18,27 @@ Android OS &amp; iOS.
 > Sar saitez www.jakina.eu atarian.
 
 
+Instalazioa
+-------------
+
+Android OS
+
+```sh
+
+cd proj.android
+
+build_native.sh clean
+
+build_native.sh
+
+```
 
 Bertsioa
 ----------
 
-Android 1.0.3
+Android 1.0.0
 
-iOS 1.0.8
+iOS 1.0.0
 
 Libreriak
 -----------
